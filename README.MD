@@ -1,3 +1,1 @@
-This is my first javaScript 30 project.
-
-What did I learn?
+# #JavaScript30 Challenge
